@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/yourusername/yourproject/internal/app"
-	"github.com/yourusername/yourproject/internal/db"
+	"github.com/zosimov735/go-chat/internal/app"
+	"github.com/zosimov735/go-chat/internal/db"
 	"log"
 )
 
