@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/Zosimov735/go-chat/internal/app"
+	"github.com/Zosimov735/go-chat/internal/db"
 	"github.com/gin-gonic/gin"
-	"github.com/zosimov735/go-chat/internal/app"
-	"github.com/zosimov735/go-chat/internal/db"
 	"log"
 )
 

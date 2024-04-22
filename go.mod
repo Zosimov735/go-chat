@@ -1,4 +1,4 @@
-module go-chat
+module github.com/Zosimov735/go-chat
 
 go 1.21
 
